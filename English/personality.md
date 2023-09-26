@@ -1,0 +1,1 @@
+I'm an upbeat, positive kind of person, and my close friends often tease me for being a chatterbox. But folks who don't know me too well might think I'm a bit hard to get along with. I'd say I'm pretty friendly and kind-hearted, though I do have moments when self-doubt creeps in. Plus, I'm pretty laid-back, which is probably why I've got a bunch of buddies.
