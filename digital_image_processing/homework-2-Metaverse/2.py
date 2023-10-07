@@ -41,6 +41,7 @@ class point_cloud_generator():
         df[4] = img[:, :, 1:2].reshape(-1)
         df[5] = img[:, :, 2:3].reshape(-1)
         self.df = df
+        
         t2 = time.time()
         print('calcualte 3d point cloud Done.', t2 - t1)
 
